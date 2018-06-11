@@ -1,0 +1,30 @@
+﻿  main.cpp
+c:\users\алексей\source\repos\runner_sfml\runner_sfml\map.h(99): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\алексей\source\repos\runner_sfml\runner_sfml\main.cpp(28): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\алексей\source\repos\runner_sfml\runner_sfml\main.cpp(51): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\алексей\source\repos\runner_sfml\runner_sfml\main.cpp(53): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\алексей\source\repos\runner_sfml\runner_sfml\main.cpp(62): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\алексей\source\repos\runner_sfml\runner_sfml\main.cpp(157): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\алексей\source\repos\runner_sfml\runner_sfml\main.cpp(158): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\алексей\source\repos\runner_sfml\runner_sfml\main.cpp(178): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\алексей\source\repos\runner_sfml\runner_sfml\main.cpp(179): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\алексей\source\repos\runner_sfml\runner_sfml\main.cpp(180): warning C4305: =: усечение из "double" в "float"
+c:\users\алексей\source\repos\runner_sfml\runner_sfml\main.cpp(182): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\алексей\source\repos\runner_sfml\runner_sfml\main.cpp(187): warning C4305: =: усечение из "double" в "float"
+c:\users\алексей\source\repos\runner_sfml\runner_sfml\main.cpp(188): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\алексей\source\repos\runner_sfml\runner_sfml\main.cpp(191): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\алексей\source\repos\runner_sfml\runner_sfml\main.cpp(194): warning C4305: =: усечение из "double" в "float"
+c:\users\алексей\source\repos\runner_sfml\runner_sfml\main.cpp(195): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\алексей\source\repos\runner_sfml\runner_sfml\main.cpp(198): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\алексей\source\repos\runner_sfml\runner_sfml\main.cpp(212): warning C4305: =: усечение из "double" в "float"
+c:\users\алексей\source\repos\runner_sfml\runner_sfml\main.cpp(215): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\алексей\source\repos\runner_sfml\runner_sfml\main.cpp(237): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\алексей\source\repos\runner_sfml\runner_sfml\main.cpp(244): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\алексей\source\repos\runner_sfml\runner_sfml\main.cpp(253): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\алексей\source\repos\runner_sfml\runner_sfml\main.cpp(260): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\алексей\source\repos\runner_sfml\runner_sfml\main.cpp(269): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\алексей\source\repos\runner_sfml\runner_sfml\main.cpp(276): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\алексей\source\repos\runner_sfml\runner_sfml\main.cpp(285): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\алексей\source\repos\runner_sfml\runner_sfml\main.cpp(292): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Runner_SFML.vcxproj -> C:\Users\Алексей\source\repos\Runner_SFML\x64\Debug\Runner_SFML.exe
+  Runner_SFML.vcxproj -> C:\Users\Алексей\source\repos\Runner_SFML\x64\Debug\Runner_SFML.pdb (Partial PDB)

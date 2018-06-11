@@ -1,0 +1,2 @@
+﻿  main.cpp
+c:\users\алексей\source\repos\runner_sfml\runner_sfml\main.cpp(1): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
